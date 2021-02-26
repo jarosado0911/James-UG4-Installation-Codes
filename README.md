@@ -21,5 +21,10 @@ You will need the following prerequisites for installation:
 You made need to add Python to the system path variable, information on how to do this is found [here](https://superuser.com/questions/949560/how-do-i-set-system-environment-variables-in-windows-10)
 
 In the environment variables Python should already be there, if not you may need to add it.
+If you installed Yale Neuron already, then it should already be in the path like in the figure below, if not you need to add it.
 
-![pythonpath](images/pythonpath.PNG) 
+![pythonpath](images/pythonpath.PNG)
+
+Steps to installing ug4 on Windows 10
+1. Downd the <code>UG4install.ps1</code> files and place it in the home directory of your user account. 
+2. 
