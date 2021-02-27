@@ -28,3 +28,8 @@ If you installed Yale Neuron already, then it should already be in the path like
 Steps to installing ug4 on Windows 10
 1. Downd the <code>UG4install.ps1</code> file and place it in the home directory of your user account. 
 2. Open <code>PowerShell</code> command prompt and navigate to the folder that contains <code>UG4install.ps1</code> from Step 1.
+3. Then execute <code>.\UG4install.ps1</code>
+4. Then when Step 3. is complete, execute <code>ls</code>, in the directory there should be two folders called <code>ug4</code> and <code>ughub</code>
+5. In <code>PowerShell</code> navigate to inside <code>ug4</code> and execute <code>ls</code> you should see below
+
+![ug4folder](images/ug4folder.PNG)
