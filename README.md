@@ -36,4 +36,6 @@ Steps to installing ug4 on Windows 10
 
 6. Now open a Windows explorer window and navigate to the <code>build_vs</code> that is located inside <code>ug4</code>
 
-![vsfolder](images/buildVS.PNG)
+![vsfolder](images/buildvs.PNG)
+
+7. Open the <code>UG4.sln</code> in either VS2017 or VS2019 whichever one you have.
