@@ -1,7 +1,9 @@
 # James-UG4-Installation-Codes
 
 These are small shell scripts for installing ug4 on different operating systems.
-There is also a pdf on how to manually install ug4 step by step. In general you will need the following:
+There is also a pdf on how to manually install ug4 step by step, if you choose to install it this way disregard the parts where you need acces uni-frankfurt. 
+You can also find directions [here](https://github.com/UG4/ughub) for installing
+In general you will need the following:
 
 ** These are Requirements**
 
@@ -18,7 +20,7 @@ You will need the following prerequisites for installation:
  - You will also need cmake for Windows here [cmake](https://cmake.org/install/)
  - You will also need [Python](https://www.python.org/downloads/windows/)
 
-You made need to add Python to the system path variable, information on how to do this is found [here](https://superuser.com/questions/949560/how-do-i-set-system-environment-variables-in-windows-10)
+You may need to add Python to the system path variable, information on how to do this is found [here](https://superuser.com/questions/949560/how-do-i-set-system-environment-variables-in-windows-10)
 
 In the environment variables Python should already be there, if not you may need to add it.
 If you installed Yale Neuron already, then it should already be in the path like in the figure below, if not you need to add it.
@@ -41,3 +43,9 @@ Steps to installing ug4 on Windows 10
 7. Open the <code>UG4.sln</code> in either VS2017 or VS2019 whichever one you have.
 8. Choose 'Release' from the dropdown menu (both debug and release builds are possible from within Visual Studio)
 9. Click Build->BuildSolution (F7) from the menu bar, this will take a while. ugshell.exe will be generated to bin/Release
+
+# On MacOS
+Need to add this
+
+# On Linux (Ubuntu)
+Need to add this
