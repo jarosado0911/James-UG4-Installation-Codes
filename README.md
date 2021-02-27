@@ -39,3 +39,5 @@ Steps to installing ug4 on Windows 10
 ![vsfolder](images/buildvs.PNG)
 
 7. Open the <code>UG4.sln</code> in either VS2017 or VS2019 whichever one you have.
+8. Choose 'Release' from the dropdown menu (both debug and release builds are possible from within Visual Studio)
+9. Click Build->BuildSolution (F7) from the menu bar, this will take a while. ugshell.exe will be generated to bin/Release
