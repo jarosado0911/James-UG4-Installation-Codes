@@ -46,7 +46,7 @@ Steps to installing ug4 on Windows 10
 
 Also see [here](https://github.com/UG4/ughub/issues/18) for any issue you may run into.
 
-Compilation with ninja makefiles is nice if you want to integrate your build into SublimeText or maybe also Eclipse. Note that ninja also requires an installation of Visual Studio. It is closer to the Unix workflow, that's why there may be less issues with runnign ugshell once it has been compiled.
+Compilation with ninja makefiles is nice if you want to integrate your build into SublimeText or maybe also Eclipse. Note that ninja also requires an installation of Visual Studio. It is closer to the Unix workflow, that's why there may be less issues with running ugshell once it has been compiled.
 On the other hand, Visual Studio project files can be generated with less hassle (no need to download ninja, no need to run vcvars64.bat) and can be easily compiled, too. Compiled executables are added to bin/Release instead of bin directly. This may cause some issues down the road when executing commands. Please report back if this leads to issue.
 Since most developers of UG4 work with Unix systems, the Windows subsystem for Linux may be an interesting option, look [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10). 
 
