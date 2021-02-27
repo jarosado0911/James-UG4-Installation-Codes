@@ -33,3 +33,7 @@ Steps to installing ug4 on Windows 10
 5. In <code>PowerShell</code> navigate to inside <code>ug4</code> and execute <code>ls</code> you should see below
 
 ![ug4folder](images/ug4folder.PNG)
+
+6. Now open a Windows explorer window and navigate to the <code>build_vs</code> that is located inside <code>ug4</code>
+
+![vsfolder>(images/buildVS.PNG)
